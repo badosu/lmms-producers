@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LMMS Producers</title>
+    <description>The home of the LMMSians</description>
+    <link>http://bado.so</link>
+    <atom:link href="http://bado.sofeed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 04 Apr 2015 20:34:19 -0300</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2015 20:34:19 -0300</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>CaLRo&#39;s Saturday Six</title>
+        <description>&lt;p&gt;CaLRo has just published his new initiative: a weekly compilation of
+six LMMS songs released every saturday.&lt;/p&gt;
+
+&lt;p&gt;From the original &lt;a href=&quot;https://lmms.io/forum/viewtopic.php?f=4&amp;amp;t=1803&quot;&gt;forum post&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;…&lt;/p&gt;
+
+  &lt;p&gt;Greetings LMMS users! Every saturday I will be picking six LMMS tracks to be featured on this playlist.&lt;/p&gt;
+
+  &lt;p&gt;Feel free to share and repost to let everyone know how awesome LMMS is. Follow me to get the latest six every saturday.&lt;/p&gt;
+
+  &lt;p&gt;…&lt;/p&gt;
+
+  &lt;p&gt;In this pilot episode I have doubled down and picked not six, but twelve tracks!&lt;/p&gt;
+
+  &lt;p&gt;Hear you next time! d[^_^]b&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/95425230&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sat, 04 Apr 2015 00:00:00 -0300</pubDate>
+        <link>http://bado.so/news/2015/04/04/calro-weekly-compilation.html</link>
+        <guid isPermaLink="true">http://bado.so/news/2015/04/04/calro-weekly-compilation.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+  </channel>
+</rss>
