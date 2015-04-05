@@ -7,7 +7,7 @@ categories: news
 The designer [@budislav](https://github.com/budislav) has proposed a major
 overhaul of the LMMS interface.
 
-He has already made contributions for the [ZynaddSubFx project](http://zynaddsubfx.sourceforge.net/)
+He already made contributions for the [ZynaddSubFx project](http://zynaddsubfx.sourceforge.net/)
 , which currently uses the work as a guideline for the [3.0 milestone](https://github.com/fundamental/zyn-ui-two).
 
 The proposal for LMMS follows the same identity of his [previous work](http://budislavtvp.deviantart.com/art/ZynAddSubFX-UI-Concept-2014-455890191), which may be good for future integrations.
