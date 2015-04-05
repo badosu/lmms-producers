@@ -28,6 +28,9 @@
     {% if site.style.headline %}<div><h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1></div>{% endif %}
     {% if site.subheading %}<div>{{ site.subheading }}</div>{% endif %}
 {{ content }}
+    {% if page.url != "/index.html" %}
+      <small> Did we miss something? <a style="color:#2A51FF" href="https://github.com/badosu/lmms-producers/issues/new">Let us know</a></small>
+    {% endif %}
     <footer>
       <span><a href="{{ site.url }}">{% if page.author %}{{ page.author }}{% else %}{{site.author}}{% endif %}</a></span>
       <span>{% for link_hash in site.links %}{% for link in link_hash %}<a href="{{ link[1] }}"><i class="fa fa-{{ link[0] }}-square"></i></a>{% endfor %}{% endfor %}</span>
