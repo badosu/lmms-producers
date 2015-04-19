@@ -5,9 +5,70 @@
     <description>The home of the LMMSians</description>
     <link>http://bado.so/lmms</link>
     <atom:link href="http://bado.so/lmmsfeed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 04 Apr 2015 23:03:34 -0300</pubDate>
-    <lastBuildDate>Sat, 04 Apr 2015 23:03:34 -0300</lastBuildDate>
+    <pubDate>Sun, 19 Apr 2015 20:48:13 -0300</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2015 20:48:13 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>LMMS 1.2 feature freeze nearby</title>
+        <description>&lt;p&gt;It looks like LMMS is close to a feature freeze for the 1.2 version
+release.&lt;/p&gt;
+
+&lt;p&gt;This is the last step before a release candidate is provided.&lt;/p&gt;
+
+&lt;p&gt;For the 1.2 release there are a lot of exciting changes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lots of crash fixes&lt;/li&gt;
+  &lt;li&gt;Many workflow improvements and bug fixes&lt;/li&gt;
+  &lt;li&gt;Descriptive messages on the loading screen&lt;/li&gt;
+  &lt;li&gt;An error report when a song can’t be loaded properly&lt;/li&gt;
+  &lt;li&gt;A more consistent set of keybindings and new ones&lt;/li&gt;
+  &lt;li&gt;Some small visual changes&lt;/li&gt;
+  &lt;li&gt;Introduction and extensive use of sample exact models&lt;/li&gt;
+  &lt;li&gt;And many more…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As soon as some tasks are done a feature freeze will be set and
+a release candidate will be available for testing.&lt;/p&gt;
+
+&lt;p&gt;From the original &lt;a href=&quot;http://sourceforge.net/p/lmms/mailman/lmms-devel/thread/CANQs7dB5ChBvcQE7Rwo2nQY5eCKwiVke5hrMO%2B_nEOeAXYE63w%40mail.gmail.com/#msg33908151&quot;&gt;mailing list thread&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;From: Tres Finocchiaro&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;We’re about ready to put the feature freeze on 1.2. We have a bug and
+feature list a mile long and well need some serious testing soon.&lt;/p&gt;
+
+  &lt;p&gt;What is remaining now is decision on a few important PRs and then off to
+the bug squashing.&lt;/p&gt;
+
+  &lt;p&gt;Some items that that need to be finalized or decided on:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Sync master with 1.1 bug fixes&lt;/li&gt;
+    &lt;li&gt;Zyn 2.5 integration&lt;/li&gt;
+    &lt;li&gt;Additional refactoring&lt;/li&gt;
+    &lt;li&gt;A few questionable bug fixes&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;I’d like to get these items wrapped up this week so we can start the
+testing cycles.&lt;/p&gt;
+
+  &lt;p&gt;Once the freeze is in place, all new features will continue to be targeted
+at master.  Bug fixes can be targeted at 1.2 (or even 1.1 if warranted).&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 19 Apr 2015 00:00:00 -0300</pubDate>
+        <link>http://bado.so/news/2015/04/19/lmms-1_2-feature-freeze-nearby.html</link>
+        <guid isPermaLink="true">http://bado.so/lmms/news/2015/04/19/lmms-1_2-feature-freeze-nearby.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>UI Overhaul Proposed</title>
