@@ -5,9 +5,55 @@
     <description>The home of the LMMSians</description>
     <link>http://bado.so/lmms</link>
     <atom:link href="http://bado.so/lmmsfeed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 19 Apr 2015 20:48:13 -0300</pubDate>
-    <lastBuildDate>Sun, 19 Apr 2015 20:48:13 -0300</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2015 21:49:27 -0300</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2015 21:49:27 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>CalRo - The many uses of the automation track</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/lmms/assets/auto1.png&quot; alt=&quot;Automation track and editor&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here we have the automation track and editor. With the dots and lines you can create many different and interesting automations. From a simple curve that fades in/out the volume, to complex shapes that make a parameter go up, down, and anywhere in between, automation can do it all.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/lmms/assets/auto2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Just like composing a melody and jotting down ideas on the piano-roll, automation is about creativity. Some of the more common uses of automation include fading tracks in/out, panning, filter sweeping, and varying FX. All of these can make your song less static, less monotonous, and more interesting.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/lmms/assets/auto3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;But that’s not all. There are many more things in LMMS that can be automated. Have you ever tried automating the various waveforms on your TripleOscillator? Why not try automating the arpeggio on your BitInvader? You can even automate entire effects chains. The possibilities are endless.
+In some cases you may want to use an LFO controller instead of an automation track. For example, if you want a cutoff frequency repeatedly going up and down between 1Hz and 14Khz, an LFO controller may be easier and quicker. But the automation track and editor offer much more flexibility and customization.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/lmms/assets/auto4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One unorthodox way to use automation is the inaudible but visible screen shake effect.
+In my project &lt;a href=&quot;https://lmms.io/lsp/?action=show&amp;amp;file=6394&quot;&gt;Indoor Shooting Range&lt;/a&gt; the song-editor has become a visual accompaniment to the finished work.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/189653556&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;carlo-tas&quot;&gt;Carlo Tas&lt;/h2&gt;
+
+  &lt;p&gt;Fascinated by MIDI files of my favorite songs, I first learned about making
+electronic music back in the mid 00s. I learned about LMMS around 2012, and
+finally decided to dedicate time to practice making electronic music. It has
+now become a big hobby of mine, allowing me to express my creativity in ways
+that can hopefully please people’s ears.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://soundcloud.com/calro-6&quot;&gt;https://soundcloud.com/calro-6&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/45792535&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Sat, 23 May 2015 00:00:00 -0300</pubDate>
+        <link>http://bado.so/articles/2015/05/23/calro-the-many-uses-of-auto.html</link>
+        <guid isPermaLink="true">http://bado.so/lmms/articles/2015/05/23/calro-the-many-uses-of-auto.html</guid>
+        
+        
+        <category>articles</category>
+        
+      </item>
     
       <item>
         <title>LMMS 1.2 feature freeze nearby</title>
